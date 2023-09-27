@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T14:57:54 IST" name="Default suite" finished-at="2023-09-26T15:11:29 IST" duration-ms="815099">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T14:57:54 IST" name="Default test" finished-at="2023-09-26T15:11:29 IST" duration-ms="815099">
+      <class name="files.login">
+        <test-method signature="Register()[pri:1, instance:files.login@82de64a]" started-at="2023-09-26T14:57:54 IST" name="Register" finished-at="2023-09-26T15:00:34 IST" duration-ms="160126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method signature="CheckValidlogin()[pri:2, instance:files.login@82de64a]" started-at="2023-09-26T15:00:34 IST" name="CheckValidlogin" finished-at="2023-09-26T15:01:36 IST" duration-ms="61573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckValidlogin -->
+        <test-method signature="checkInvalidlogin()[pri:3, instance:files.login@82de64a]" started-at="2023-09-26T15:01:36 IST" name="checkInvalidlogin" finished-at="2023-09-26T15:02:47 IST" duration-ms="70945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInvalidlogin -->
+        <test-method signature="checkingSearchButton()[pri:4, instance:files.login@82de64a]" started-at="2023-09-26T15:02:47 IST" name="checkingSearchButton" finished-at="2023-09-26T15:03:44 IST" duration-ms="57219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingSearchButton -->
+        <test-method signature="checkSelectCateogory()[pri:5, instance:files.login@82de64a]" started-at="2023-09-26T15:03:44 IST" name="checkSelectCateogory" finished-at="2023-09-26T15:04:31 IST" duration-ms="46490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSelectCateogory -->
+        <test-method signature="checkMultiLogin()[pri:6, instance:files.login@82de64a]" started-at="2023-09-26T15:04:31 IST" name="checkMultiLogin" finished-at="2023-09-26T15:06:36 IST" duration-ms="124903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMultiLogin -->
+        <test-method signature="checkViewPort()[pri:7, instance:files.login@82de64a]" started-at="2023-09-26T15:06:36 IST" name="checkViewPort" finished-at="2023-09-26T15:07:42 IST" duration-ms="66543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkViewPort -->
+        <test-method signature="checkProductDetails()[pri:8, instance:files.login@82de64a]" started-at="2023-09-26T15:07:42 IST" name="checkProductDetails" finished-at="2023-09-26T15:08:44 IST" duration-ms="61419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProductDetails -->
+        <test-method signature="checkPlaceOrder()[pri:9, instance:files.login@82de64a]" started-at="2023-09-26T15:08:44 IST" name="checkPlaceOrder" finished-at="2023-09-26T15:10:00 IST" duration-ms="76722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPlaceOrder -->
+        <test-method signature="removeOrder()[pri:10, instance:files.login@82de64a]" started-at="2023-09-26T15:10:00 IST" name="removeOrder" finished-at="2023-09-26T15:11:29 IST" duration-ms="88133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeOrder -->
+      </class> <!-- files.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
